@@ -1,0 +1,571 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>2019年11月厦门历史天气查询_福建厦门2019年11月历史天气预报情况</title>
+<meta name="keywords" content="2019年11月厦门历史天气" />
+<meta name="description" content="2019年11月厦门历史天气查询，福建厦门2019年11月历史天气预报情况。" />
+<link rel="canonical" href="https://www.baidutianqi.com/history/59134-201911.htm" />
+<link href="https://www.baidutianqi.com/css/main.css" rel="stylesheet" type="text/css" />
+    <!--[if lt IE 9]>
+    <script src="https://ssl.css.cdn120.com/js/3.7.2/html5shiv.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+<header class="clearfix">
+  <div class="top clearfix">
+    <div class="logo">
+        <a href="https://www.baidutianqi.com/"><img src="https://www.baidutianqi.com/logo.gif" border="0"></a>
+    </div>
+	<div class="top-search">
+				<form action="https://www.baidutianqi.com/search/" method="post">
+					<input class="search-field" name="cityinfo" id="cityinfo" type="text" onblur="if(this.value=='')this.value='输入城市名称查看天气预报';" onfocus="if(this.value=='输入城市名称查看天气预报')this.value='';" value="输入城市名称查看天气预报"/>
+					<button class="search-btn">查看</button>
+				</form>
+	</div>
+  </div>
+<nav class="menu">
+    <input type="checkbox" id="button">
+    <label for="button">天气预报</label>
+				<ul>
+				<li><a href="https://www.baidutianqi.com/" title="天气预报首页">首页</a></li>
+				<li><a href="https://www.baidutianqi.com/today/">今日24小时天气预报</a></li>
+				<li><a href="https://www.baidutianqi.com/tomorrow/">明天天气预报</a></li>
+				<li><a href="https://www.baidutianqi.com/tour/">旅游景点天气</a></li>
+				<li><a href="https://www.baidutianqi.com/news/">天气资讯</a></li>
+				<li><a href="https://www.baidutianqi.com/history/">历史天气</a></li>
+				<li><a href="https://www.baidutianqi.com/pm25/">PM2.5查询</a></li>
+				<li><a href="https://www.baidutianqi.com/news/">天气资讯</a></li>
+				<li><a href="https://news.baidutianqi.com/common/">天气常识</a></li>
+				<li><a href="https://news.baidutianqi.com/wiki/">天气百科</a></li>
+				</ul>
+</nav>
+<div class="position">
+<a href="https://www.baidutianqi.com/city/54511.htm" title="北京天气预报" >北京天气预报</a>
+<a href="https://www.baidutianqi.com/city/58362.htm" title="上海天气预报" >上海天气预报</a>
+<a href="https://www.baidutianqi.com/city/57494.htm" title="武汉天气预报" >武汉天气预报</a> 
+<a href="https://www.baidutianqi.com/city/58357.htm" title="苏州天气预报" >苏州天气预报</a> 
+<a href="https://www.baidutianqi.com/city/57083.htm" title="郑州天气预报" >郑州天气预报</a> 
+<a href="https://www.baidutianqi.com/city/58354.htm" title="无锡天气预报" >无锡天气预报</a> 
+<a href="https://www.baidutianqi.com/city/57036.htm" title="西安天气预报" >西安天气预报</a> 
+<a href="https://www.baidutianqi.com/city/58606.htm" title="南昌天气预报" >南昌天气预报</a>
+<a href="https://www.baidutianqi.com/city/54823.htm" title="济南天气预报" >济南天气预报</a>
+<a href="https://www.baidutianqi.com/city/57687.htm" title="长沙天气预报" >长沙天气预报</a>
+<a href="https://www.baidutianqi.com/city/54161.htm" title="长春天气预报" >长春天气预报</a>
+<a href="https://www.baidutianqi.com/city/58321.htm" title="合肥天气预报" >合肥天气预报</a>
+<a href="https://www.baidutianqi.com/city/59493.htm" title="深圳天气预报" >深圳天气预报</a>
+<a href="https://www.baidutianqi.com/city/58457.htm" title="杭州天气预报" >杭州天气预报</a>
+<a href="https://www.baidutianqi.com/city/58465.htm" title="宁波天气预报" >宁波天气预报</a>
+</div>
+</header>
+
+<div class="wrapper clearfix">
+     <div class="breadcrumb clearfix">
+        <ul>
+            <li>当前位置：<a href="https://www.baidutianqi.com/">天气预报</a></li>
+            <li><a href="https://www.baidutianqi.com/city/59134.htm">厦门天气预报</a></li>
+	    <li><a href="https://www.baidutianqi.com/history/59134.htm">厦门历史天气</a></li>
+	    <li><a href="https://www.baidutianqi.com/history/59134-201911.htm">厦门2019年11月天气</a></li>
+        </ul>
+    </div>
+   <div class="contentBody">
+
+<h1 class="title">厦门（2019年11月）天气情况</h1>
+	<div class="tips">更多推荐：<a href="https://www.baidutianqi.com/city/59134.htm">厦门15天天气预报</a> - <a href="https://www.baidutianqi.com/today/59134.htm">厦门24小时天气预报</a> - <a href="https://www.baidutianqi.com/tomorrow/59134.htm">厦门明天天气预报</a> - <a href="https://www.baidutianqi.com/pm25/59134.htm">厦门pm2.5</a> - <a href="https://www.baidutianqi.com/tour/59134.htm">厦门旅游景点天气预报</a> - <a href="https://www.baidutianqi.com/history/59134.htm">厦门历史天气</a></div><p class="sharetip">请将【厦门（2019年11月）历史天气】通过下面方式分享给您身边的朋友！</p>
+<div class="bdsharebuttonbox get-codes-bdshare">
+<a class="bds_more" data-cmd="more">分享到</a>
+<a class="bds_weixin" data-cmd="weixin" title="分享到微信">微信</a>
+<a class="bds_tsina" data-cmd="tsina" title="分享到新浪微博">新浪微博</a>
+<a class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博">QQ微博</a>
+<a class="bds_qzone" data-cmd="qzone" title="分享到QQ空间">QQ空间</a>
+<a class="bds_sqq" data-cmd="sqq" title="分享到QQ好友">QQ好友</a>
+<a class="bds_more" data-cmd="more">更多</a>
+<a class="bds_count" data-cmd="count"></a>
+</div>
+
+<h2>厦门（2019年11月）天气情况</h2>                                    
+<div class="history">
+<div class="tips">
+<p>最高温度：28（2019-11-18），最低温度：13（2019-11-28）</p>
+<p>平均最高温度：25，平均最低温度：17</p>
+</div>
+<table>
+<tr><th>日期</th>
+<th>最高气温</th>
+<th>最低气温</th>
+<th>天气</th>
+<th>风向</th>
+<th>风力</th></tr>
+<tr>
+<td>2019-11-01（星期五）</td>
+<td>28℃</td>
+<td>19℃</td>
+<td>多云</td>
+<td>东北风</td>
+<td>4级</td>
+</tr><tr>
+<td>2019-11-02（星期六）</td>
+<td>28℃</td>
+<td>19℃</td>
+<td>晴</td>
+<td>东北风</td>
+<td>4级</td>
+</tr><tr>
+<td>2019-11-03（星期日）</td>
+<td>28℃</td>
+<td>20℃</td>
+<td>晴</td>
+<td>东北风</td>
+<td>3级</td>
+</tr><tr>
+<td>2019-11-04（星期一）</td>
+<td>27℃</td>
+<td>18℃</td>
+<td>多云~晴</td>
+<td>东北风</td>
+<td>5级</td>
+</tr><tr>
+<td>2019-11-05（星期二）</td>
+<td>26℃</td>
+<td>17℃</td>
+<td>晴</td>
+<td>东北风</td>
+<td>5级</td>
+</tr><tr>
+<td>2019-11-06（星期三）</td>
+<td>26℃</td>
+<td>17℃</td>
+<td>晴</td>
+<td>东北风</td>
+<td>4级</td>
+</tr><tr>
+<td>2019-11-07（星期四）</td>
+<td>27℃</td>
+<td>18℃</td>
+<td>多云~晴</td>
+<td>东北风</td>
+<td>4级</td>
+</tr><tr>
+<td>2019-11-08（星期五）</td>
+<td>26℃</td>
+<td>16℃</td>
+<td>晴</td>
+<td>东北风</td>
+<td>5级</td>
+</tr><tr>
+<td>2019-11-09（星期六）</td>
+<td>24℃</td>
+<td>14℃</td>
+<td>多云~晴</td>
+<td>东北风</td>
+<td>5级</td>
+</tr><tr>
+<td>2019-11-10（星期日）</td>
+<td>25℃</td>
+<td>16℃</td>
+<td>晴</td>
+<td>东北风</td>
+<td>3级</td>
+</tr><tr>
+<td>2019-11-11（星期一）</td>
+<td>26℃</td>
+<td>17℃</td>
+<td>晴</td>
+<td>东北风</td>
+<td>3级</td>
+</tr><tr>
+<td>2019-11-12（星期二）</td>
+<td>26℃</td>
+<td>18℃</td>
+<td>晴~多云</td>
+<td>东北风</td>
+<td>3级</td>
+</tr><tr>
+<td>2019-11-13（星期三）</td>
+<td>28℃</td>
+<td>19℃</td>
+<td>晴</td>
+<td>东北风</td>
+<td>3级</td>
+</tr><tr>
+<td>2019-11-14（星期四）</td>
+<td>24℃</td>
+<td>15℃</td>
+<td>晴~多云</td>
+<td>东北风</td>
+<td>5级</td>
+</tr><tr>
+<td>2019-11-15（星期五）</td>
+<td>25℃</td>
+<td>16℃</td>
+<td>晴</td>
+<td>东北风</td>
+<td>3级</td>
+</tr><tr>
+<td>2019-11-16（星期六）</td>
+<td>27℃</td>
+<td>17℃</td>
+<td>晴</td>
+<td>东北风</td>
+<td>3级</td>
+</tr><tr>
+<td>2019-11-17（星期日）</td>
+<td>27℃</td>
+<td>18℃</td>
+<td>晴</td>
+<td>西北风</td>
+<td>2级</td>
+</tr><tr>
+<td>2019-11-18（星期一）</td>
+<td>28℃</td>
+<td>16℃</td>
+<td>多云~晴</td>
+<td>东北风</td>
+<td>4级</td>
+</tr><tr>
+<td>2019-11-19（星期二）</td>
+<td>20℃</td>
+<td>13℃</td>
+<td>阴</td>
+<td>东北风</td>
+<td>6级</td>
+</tr><tr>
+<td>2019-11-20（星期三）</td>
+<td>23℃</td>
+<td>15℃</td>
+<td>晴</td>
+<td>东北风</td>
+<td>5级</td>
+</tr><tr>
+<td>2019-11-21（星期四）</td>
+<td>26℃</td>
+<td>17℃</td>
+<td>晴</td>
+<td>东北风</td>
+<td>3级</td>
+</tr><tr>
+<td>2019-11-22（星期五）</td>
+<td>27℃</td>
+<td>19℃</td>
+<td>多云~晴</td>
+<td>东北风</td>
+<td>2级</td>
+</tr><tr>
+<td>2019-11-23（星期六）</td>
+<td>26℃</td>
+<td>19℃</td>
+<td>多云</td>
+<td>东北风</td>
+<td>2级</td>
+</tr><tr>
+<td>2019-11-24（星期日）</td>
+<td>27℃</td>
+<td>19℃</td>
+<td>晴~多云</td>
+<td>东北风</td>
+<td>2级</td>
+</tr><tr>
+<td>2019-11-25（星期一）</td>
+<td>24℃</td>
+<td>16℃</td>
+<td>多云~晴</td>
+<td>东北风</td>
+<td>5级</td>
+</tr><tr>
+<td>2019-11-26（星期二）</td>
+<td>23℃</td>
+<td>16℃</td>
+<td>多云</td>
+<td>东北风</td>
+<td>5级</td>
+</tr><tr>
+<td>2019-11-27（星期三）</td>
+<td>25℃</td>
+<td>16℃</td>
+<td>晴</td>
+<td>东北风</td>
+<td>4级</td>
+</tr><tr>
+<td>2019-11-28（星期四）</td>
+<td>20℃</td>
+<td>13℃</td>
+<td>多云~晴</td>
+<td>东北风</td>
+<td>5级</td>
+</tr><tr>
+<td>2019-11-29（星期五）</td>
+<td>21℃</td>
+<td>13℃</td>
+<td>晴~多云</td>
+<td>东北风</td>
+<td>4级</td>
+</tr><tr>
+<td>2019-11-30（星期六）</td>
+<td>23℃</td>
+<td>15℃</td>
+<td>多云~晴</td>
+<td>东北风</td>
+<td>2级</td>
+</tr></table>
+</div>
+                  
+				<h2>厦门历史天气</h2>
+			<div class="list2 clearfix">
+					<ul>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20111.htm" title="厦门2011年1月历史天气">厦门2011年1月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20112.htm" title="厦门2011年2月历史天气">厦门2011年2月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20113.htm" title="厦门2011年3月历史天气">厦门2011年3月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20114.htm" title="厦门2011年4月历史天气">厦门2011年4月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20115.htm" title="厦门2011年5月历史天气">厦门2011年5月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20116.htm" title="厦门2011年6月历史天气">厦门2011年6月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20117.htm" title="厦门2011年7月历史天气">厦门2011年7月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20118.htm" title="厦门2011年8月历史天气">厦门2011年8月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20119.htm" title="厦门2011年9月历史天气">厦门2011年9月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-201110.htm" title="厦门2011年10月历史天气">厦门2011年10月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-201111.htm" title="厦门2011年11月历史天气">厦门2011年11月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-201112.htm" title="厦门2011年12月历史天气">厦门2011年12月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20121.htm" title="厦门2012年1月历史天气">厦门2012年1月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20122.htm" title="厦门2012年2月历史天气">厦门2012年2月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20123.htm" title="厦门2012年3月历史天气">厦门2012年3月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20124.htm" title="厦门2012年4月历史天气">厦门2012年4月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20125.htm" title="厦门2012年5月历史天气">厦门2012年5月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20126.htm" title="厦门2012年6月历史天气">厦门2012年6月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20127.htm" title="厦门2012年7月历史天气">厦门2012年7月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20128.htm" title="厦门2012年8月历史天气">厦门2012年8月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20129.htm" title="厦门2012年9月历史天气">厦门2012年9月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-201210.htm" title="厦门2012年10月历史天气">厦门2012年10月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-201211.htm" title="厦门2012年11月历史天气">厦门2012年11月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-201212.htm" title="厦门2012年12月历史天气">厦门2012年12月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20131.htm" title="厦门2013年1月历史天气">厦门2013年1月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20132.htm" title="厦门2013年2月历史天气">厦门2013年2月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20133.htm" title="厦门2013年3月历史天气">厦门2013年3月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20134.htm" title="厦门2013年4月历史天气">厦门2013年4月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20135.htm" title="厦门2013年5月历史天气">厦门2013年5月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20136.htm" title="厦门2013年6月历史天气">厦门2013年6月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20137.htm" title="厦门2013年7月历史天气">厦门2013年7月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20138.htm" title="厦门2013年8月历史天气">厦门2013年8月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20139.htm" title="厦门2013年9月历史天气">厦门2013年9月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-201310.htm" title="厦门2013年10月历史天气">厦门2013年10月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-201311.htm" title="厦门2013年11月历史天气">厦门2013年11月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-201312.htm" title="厦门2013年12月历史天气">厦门2013年12月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20141.htm" title="厦门2014年1月历史天气">厦门2014年1月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20142.htm" title="厦门2014年2月历史天气">厦门2014年2月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20143.htm" title="厦门2014年3月历史天气">厦门2014年3月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20144.htm" title="厦门2014年4月历史天气">厦门2014年4月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20145.htm" title="厦门2014年5月历史天气">厦门2014年5月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20146.htm" title="厦门2014年6月历史天气">厦门2014年6月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20147.htm" title="厦门2014年7月历史天气">厦门2014年7月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20148.htm" title="厦门2014年8月历史天气">厦门2014年8月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20149.htm" title="厦门2014年9月历史天气">厦门2014年9月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-201410.htm" title="厦门2014年10月历史天气">厦门2014年10月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-201411.htm" title="厦门2014年11月历史天气">厦门2014年11月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-201412.htm" title="厦门2014年12月历史天气">厦门2014年12月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20151.htm" title="厦门2015年1月历史天气">厦门2015年1月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20152.htm" title="厦门2015年2月历史天气">厦门2015年2月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20153.htm" title="厦门2015年3月历史天气">厦门2015年3月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20154.htm" title="厦门2015年4月历史天气">厦门2015年4月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20155.htm" title="厦门2015年5月历史天气">厦门2015年5月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20156.htm" title="厦门2015年6月历史天气">厦门2015年6月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20157.htm" title="厦门2015年7月历史天气">厦门2015年7月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20158.htm" title="厦门2015年8月历史天气">厦门2015年8月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20159.htm" title="厦门2015年9月历史天气">厦门2015年9月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-201510.htm" title="厦门2015年10月历史天气">厦门2015年10月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-201511.htm" title="厦门2015年11月历史天气">厦门2015年11月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-201512.htm" title="厦门2015年12月历史天气">厦门2015年12月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20161.htm" title="厦门2016年1月历史天气">厦门2016年1月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20162.htm" title="厦门2016年2月历史天气">厦门2016年2月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20163.htm" title="厦门2016年3月历史天气">厦门2016年3月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20164.htm" title="厦门2016年4月历史天气">厦门2016年4月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20165.htm" title="厦门2016年5月历史天气">厦门2016年5月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20166.htm" title="厦门2016年6月历史天气">厦门2016年6月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20167.htm" title="厦门2016年7月历史天气">厦门2016年7月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20168.htm" title="厦门2016年8月历史天气">厦门2016年8月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20169.htm" title="厦门2016年9月历史天气">厦门2016年9月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-201610.htm" title="厦门2016年10月历史天气">厦门2016年10月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-201611.htm" title="厦门2016年11月历史天气">厦门2016年11月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-201612.htm" title="厦门2016年12月历史天气">厦门2016年12月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20171.htm" title="厦门2017年1月历史天气">厦门2017年1月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20172.htm" title="厦门2017年2月历史天气">厦门2017年2月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20173.htm" title="厦门2017年3月历史天气">厦门2017年3月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20174.htm" title="厦门2017年4月历史天气">厦门2017年4月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20175.htm" title="厦门2017年5月历史天气">厦门2017年5月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20176.htm" title="厦门2017年6月历史天气">厦门2017年6月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20177.htm" title="厦门2017年7月历史天气">厦门2017年7月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20178.htm" title="厦门2017年8月历史天气">厦门2017年8月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20179.htm" title="厦门2017年9月历史天气">厦门2017年9月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-201710.htm" title="厦门2017年10月历史天气">厦门2017年10月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-201711.htm" title="厦门2017年11月历史天气">厦门2017年11月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-201712.htm" title="厦门2017年12月历史天气">厦门2017年12月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20181.htm" title="厦门2018年1月历史天气">厦门2018年1月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20182.htm" title="厦门2018年2月历史天气">厦门2018年2月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20183.htm" title="厦门2018年3月历史天气">厦门2018年3月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20184.htm" title="厦门2018年4月历史天气">厦门2018年4月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20185.htm" title="厦门2018年5月历史天气">厦门2018年5月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20186.htm" title="厦门2018年6月历史天气">厦门2018年6月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20187.htm" title="厦门2018年7月历史天气">厦门2018年7月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20188.htm" title="厦门2018年8月历史天气">厦门2018年8月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20189.htm" title="厦门2018年9月历史天气">厦门2018年9月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-201810.htm" title="厦门2018年10月历史天气">厦门2018年10月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-201811.htm" title="厦门2018年11月历史天气">厦门2018年11月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-201812.htm" title="厦门2018年12月历史天气">厦门2018年12月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20191.htm" title="厦门2019年1月历史天气">厦门2019年1月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20192.htm" title="厦门2019年2月历史天气">厦门2019年2月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20193.htm" title="厦门2019年3月历史天气">厦门2019年3月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20194.htm" title="厦门2019年4月历史天气">厦门2019年4月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20195.htm" title="厦门2019年5月历史天气">厦门2019年5月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20196.htm" title="厦门2019年6月历史天气">厦门2019年6月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20197.htm" title="厦门2019年7月历史天气">厦门2019年7月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20198.htm" title="厦门2019年8月历史天气">厦门2019年8月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-20199.htm" title="厦门2019年9月历史天气">厦门2019年9月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-201910.htm" title="厦门2019年10月历史天气">厦门2019年10月历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134-201911.htm" title="厦门2019年11月历史天气">厦门2019年11月历史天气</a></li>
+                     					</ul>
+				</div>	       
+
+				<h2>查看福建其它城市历史天气</h2>
+				<div class="list4 clearfix">
+					<ul>
+                                          <li><a href="https://www.baidutianqi.com/history/58847.htm" title="福州历史天气">福州历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/60073.htm" title="闽清历史天气">闽清历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/60301.htm" title="闽侯历史天气">闽侯历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/60071.htm" title="罗源历史天气">罗源历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/60004.htm" title="连江历史天气">连江历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/60072.htm" title="永泰历史天气">永泰历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/60302.htm" title="平潭历史天气">平潭历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/60396.htm" title="长乐历史天气">长乐历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/60084.htm" title="福清历史天气">福清历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59134.htm" title="厦门历史天气">厦门历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/70030.htm" title="同安历史天气">同安历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/58846.htm" title="宁德历史天气">宁德历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/70022.htm" title="古田历史天气">古田历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/60397.htm" title="霞浦历史天气">霞浦历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/60303.htm" title="寿宁历史天气">寿宁历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/60703.htm" title="周宁历史天气">周宁历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/60398.htm" title="福安历史天气">福安历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/60656.htm" title="柘荣历史天气">柘荣历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/60401.htm" title="福鼎历史天气">福鼎历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/60075.htm" title="屏南历史天气">屏南历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/58946.htm" title="莆田历史天气">莆田历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/60076.htm" title="仙游历史天气">仙游历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/70032.htm" title="秀屿港历史天气">秀屿港历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/71394.htm" title="涵江历史天气">涵江历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/71395.htm" title="秀屿历史天气">秀屿历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/71396.htm" title="荔城历史天气">荔城历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/71397.htm" title="城厢历史天气">城厢历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59131.htm" title="泉州历史天气">泉州历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/70016.htm" title="安溪历史天气">安溪历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/60085.htm" title="永春历史天气">永春历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/60653.htm" title="德化历史天气">德化历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/60304.htm" title="南安历史天气">南安历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/70018.htm" title="崇武历史天气">崇武历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/71236.htm" title="惠安历史天气">惠安历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/71149.htm" title="晋江历史天气">晋江历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/71237.htm" title="石狮历史天气">石狮历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/59126.htm" title="漳州历史天气">漳州历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/61002.htm" title="长泰历史天气">长泰历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/70028.htm" title="南靖历史天气">南靖历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/70029.htm" title="平和历史天气">平和历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/60078.htm" title="龙海历史天气">龙海历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/70034.htm" title="漳浦历史天气">漳浦历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/60702.htm" title="诏安历史天气">诏安历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/70020.htm" title="东山历史天气">东山历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/60399.htm" title="云霄历史天气">云霄历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/70023.htm" title="华安历史天气">华安历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/58927.htm" title="龙岩历史天气">龙岩历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/70017.htm" title="长汀历史天气">长汀历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/60873.htm" title="连城历史天气">连城历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/60716.htm" title="武平历史天气">武平历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/60717.htm" title="上杭历史天气">上杭历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/60077.htm" title="永定历史天气">永定历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/60607.htm" title="漳平历史天气">漳平历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/58828.htm" title="三明历史天气">三明历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/60899.htm" title="宁化历史天气">宁化历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/60657.htm" title="清流历史天气">清流历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/60714.htm" title="泰宁历史天气">泰宁历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/70024.htm" title="将乐历史天气">将乐历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/70025.htm" title="建宁历史天气">建宁历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/70027.htm" title="明溪历史天气">明溪历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/60400.htm" title="沙县历史天气">沙县历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/60715.htm" title="尤溪历史天气">尤溪历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/60083.htm" title="永安历史天气">永安历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/70019.htm" title="大田历史天气">大田历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/58834.htm" title="南平历史天气">南平历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/60081.htm" title="顺昌历史天气">顺昌历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/70021.htm" title="光泽历史天气">光泽历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/60079.htm" title="邵武历史天气">邵武历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/60082.htm" title="武夷山历史天气">武夷山历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/60654.htm" title="浦城历史天气">浦城历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/60655.htm" title="建阳历史天气">建阳历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/60705.htm" title="松溪历史天气">松溪历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/60900.htm" title="政和历史天气">政和历史天气</a></li>
+                                          <li><a href="https://www.baidutianqi.com/history/60080.htm" title="建瓯历史天气">建瓯历史天气</a></li>
+                     					</ul>
+				</div>
+
+    </div>
+    <div class="sidebar">
+        <div class="sidebarBox">
+<div class="ad">
+</div>
+
+        </div>
+    </div>
+</div>
+<footer>
+<p>天气预报网-准确提供全国2410个城市未来24小时、3天、5天、7天、10天的天气预报-全国天气情况</p>
+    <p>
+        Copyright &copy  2010-2018 www.baidutianqi.com 天气预报
+    </p>
+</footer>
+<script>
+ document.getElementsByClassName("menu")[0].addEventListener("click", function(e) {
+        var eles;
+        if (e.target.tagName === "LI") {
+            eles = e.target.parentNode.children;
+        } else {
+            eles = e.target.parentNode.parentNode.children;
+        }
+        var len = eles.length;
+        for (var i = 2; i < eles.length; i++) {
+            eles[i].classList.toggle("collapse");
+        }
+    });
+
+    var has_subnavs = document.getElementsByClassName("has_subnav");
+    var timer, timer2;
+    for (var i = 0; i < has_subnavs.length; i++) {
+        has_subnavs[i].addEventListener("mouseover", function(e) {
+            if (e.target.tagName === "LI") {
+                e.target.children[0].classList.toggle("show_block");
+            } else {
+                if (timer) {
+                    clearTimeout(timer);
+                }
+                if (timer2) {
+                    clearTimeout(timer2);
+                }
+            }
+        });
+        has_subnavs[i].addEventListener("mouseout", function(e) {
+            if (e.target.tagName === "LI") {
+                if(e.target.children[0].tagName!=="A"){
+                    timer = setTimeout(function() {
+                        e.target.children[0].classList.toggle("show_block");
+                    }, 70);
+                }
+            } else if (e.target.tagName === "UL") {
+                e.target.style.display = "none";
+            } else if (e.target.tagName === "A") {
+                timer2 = setTimeout(function() {
+                    e.target.parentNode.parentNode.classList.toggle("show_block");
+                }, 70);
+            }
+        });
+    }
+</script>
+<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"24"},"share":{},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+
+</body>
+</html>
